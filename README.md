@@ -1,6 +1,6 @@
 The web interface section of [https://app.kamechan.xyz]
 
-This is a small part of the code open for hackerson and has not yet been fully open-sourced.
+This is a small part of the code open for hackerson.
 
 The workflow engine part is under heavy development, and not open sourced yet 
 
